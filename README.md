@@ -1,2 +1,2 @@
-# Projects_Portfolio
+# Projects Portfolio
 This repository contains examples of my solutions for various analytical and data science cases
